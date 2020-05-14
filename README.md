@@ -2,7 +2,7 @@
 
 বায়োইনফরমেটিক্স ও জিনোমিক্সে যারা কাজ করতে চান বা ভবিষ্যতে উচ্চশিক্ষা নিতে চান, তাদের লিনাক্স bash কমান্ড জানা অত্যাবশ্যকীয়। কারন লিনাক্স bash কমান্ড না জেনে আপনি একদিনও কাটাতে পারবেননা এই ফিল্ডে গবেষণায়। লিনাক্স বা ইউনিক্সের কমান্ড বা প্রোগ্রামিং শিখতে চাইলে শুরু করে দিন কোডিং এবং তার জন্য এই বাংলা টিউটোরিয়ালগুলো দেখে নিতে পারেন। কিছু পরামর্শ: 
 
-- আপনার লিনাক্স বা ইউনিক্স অপারেটিং সিস্টেম ইন্সটল থাকতে হবে। যদি উইন্ডোজ অপারেটিং সিস্টেম হয় তাহলে কিছু এপ্লিকেশন আছে (যেমন ) সেগুলো ডাউনলোড করে লিনাক্সের টার্মিনাল ব্যবহার করতে পারবেন।
+- আপনার লিনাক্স বা ইউনিক্স অপারেটিং সিস্টেম ইন্সটল থাকতে হবে। যদি উইন্ডোজ অপারেটিং সিস্টেম হয় তাহলে কিছু এপ্লিকেশন আছে (যেমন [Ubuntu for windows](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab)) সেগুলো ডাউনলোড করে লিনাক্সের টার্মিনাল ব্যবহার করতে পারবেন।
 - আপনি চাইলে আপনার কম্পিউটারে উইন্ডোজ অপারেটিং সিস্টেমের পাশাপাশি লিনাক্স অপারেটিং সিস্টেম ইন্সটল করতে পারবেন। গুগলে "dual boot linux and windows" লিখে খুঁজে দেখবেন অনেক কিভাবে তা করতে হয়।  
 - এই লেকচার অনুসরণ করার জন্য প্রোগ্রামিং এর পূর্ব অভিজ্ঞতার প্রয়োজন নেই। 
 - এই লেকচারগুলো সুনির্দিস্ট ক্রমে সাজানো আছে ও পরের একটি লেকচার তার আগের লেকচারের উপর নির্ভরশীল। তাই ক্রমানুসারে ভিডিওগুলো দেখার অনুরোধ রইল। 
@@ -25,10 +25,13 @@
 
 ১)  [__লেকচার - ০১ - Access directory and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `pwd, cd, ll, clear,  ~, space error, ./, ../`
 
-২)  [__লেকচার - ০2 - Create, Read, write, download files and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, head, tail, wc, wget , touch, >`
+২)  [__লেকচার - ০2 - Create, download files and count lines__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `head, tail, wc, wget, touch`
+
+২)  [__লেকচার - ০2 - Read, write file and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
 ৩)  [__লেকচার - ০৩ - Create, Copy, remove directories and files__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-03.md) `mkdir, cp, mv, rmdir, rm`
-which
+
+#which
 
 #zip, unzip, sudo vs su
 
