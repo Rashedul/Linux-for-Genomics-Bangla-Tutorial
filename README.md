@@ -3,7 +3,7 @@
 বায়োইনফরমেটিক্স ও জিনোমিক্সে যারা কাজ করতে চান বা ভবিষ্যতে উচ্চশিক্ষা নিতে চান, তাদের লিনাক্স bash কমান্ড জানা অত্যাবশ্যকীয়। কারন লিনাক্স bash কমান্ড না জেনে আপনি একদিনও কাটাতে পারবেননা এই ফিল্ডে গবেষণায়। লিনাক্স বা ইউনিক্সের কমান্ড বা প্রোগ্রামিং শিখতে চাইলে শুরু করে দিন কোডিং এবং তার জন্য এই বাংলা টিউটোরিয়ালগুলো দেখে নিতে পারেন। কিছু পরামর্শ: 
 
 - আপনার লিনাক্স বা ইউনিক্স অপারেটিং সিস্টেম ইন্সটল থাকতে হবে। যদি উইন্ডোজ অপারেটিং সিস্টেম হয় তাহলে কিছু এপ্লিকেশন আছে (যেমন [Ubuntu for windows](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot:overviewtab)) সেগুলো ডাউনলোড করে লিনাক্সের টার্মিনাল ব্যবহার করতে পারবেন।
-- আপনি চাইলে আপনার কম্পিউটারে উইন্ডোজ অপারেটিং সিস্টেমের পাশাপাশি লিনাক্স অপারেটিং সিস্টেম ইন্সটল করতে পারবেন। গুগলে "dual boot linux and windows" লিখে খুঁজে দেখবেন অনেক কিভাবে তা করতে হয়।  
+- আপনি চাইলে আপনার কম্পিউটারে উইন্ডোজ অপারেটিং সিস্টেমের পাশাপাশি লিনাক্স অপারেটিং সিস্টেম ইন্সটল করতে পারবেন। গুগলে "dual boot linux and windows" লিখে খুঁজে দেখবেন অনেক link পাবেন তা করার জন্য।  
 - এই লেকচার অনুসরণ করার জন্য প্রোগ্রামিং এর পূর্ব অভিজ্ঞতার প্রয়োজন নেই। 
 - এই লেকচারগুলো সুনির্দিস্ট ক্রমে সাজানো আছে ও পরের একটি লেকচার তার আগের লেকচারের উপর নির্ভরশীল। তাই ক্রমানুসারে ভিডিওগুলো দেখার অনুরোধ রইল। 
 - লেকচারের সবগুলো কোড রান করাবেন, সাথে যা মন চায় চেষ্টা করতে পারেন কোড এদিক সেদিক পরিবর্তন করে। 
@@ -29,61 +29,36 @@
 
 ২)  [__লেকচার - ০2 - Read, write file and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
-৩)  [__লেকচার - ০৩ - Create, copy, remove directories and files__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-03.md) `mkdir, cp, mv, rmdir, rm`
+৩)  [__লেকচার - ০৩ - Create, copy, remove directories and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `mkdir, cp, mv, rmdir, rm`
 
-#which
+৩)  [__লেকচার - ০৩ - Edit files on terminal__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `vi, vim`
 
-#zip, unzip, sudo vs su
+৩)  [__লেকচার - ০৩ - Compress and uncompress files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `gzip, gunzip`
 
-#vi text editor
+২)  [__লেকচার - ০2 - Symlink file__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
-#cut
+৩)  [__লেকচার - ০৩ - file permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
 
-#symlink
+### looping
 
-#FILENAME, basemane
+২)  [__লেকচার - ০2 - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
-৩)  [__লেকচার - ০৩ - file permission__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-03.md) #
+২)  [__লেকচার - ০2 - while loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
+
+২)  [__লেকচার - ০2 - Change file name in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `FILENAME, basemane`
 
 
 ### Data analysis basic commands
 
-৪)  [__লেকচার - ০৪ - grep, sort and duplicates__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-04.md) `sort, uniq, count, man`
+৪)  [__লেকচার - ০৪ - grep, sort and duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
 
-৫)  [__লেকচার - ০৫ - merge two files__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-05.md) `cat, paste, join`
-
-৬)  [__লেকচার - ০৬ - for and while loop__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-06.md)
-
-৭)  [__লেকচার - ০৭ - dplyr - I__- `select()` and `filter()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-07.md)
-
-৮)  [__লেকচার - ০৮ - dplyr - II__- `pipe()`, `mutate()` and `arrange()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-08.md)
-
-৯)  [__লেকচার - ০৯ - dplyr - III__-  `summarize()` and `group_by()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-09.md)
-
-১০)  [__লেকচার - ১০ - Writing & Reading data__- `write.table()`, `read.table()`, `read.xls()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-10.md)
+৫)  [__লেকচার - ০৫ - merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste, join`
 
 
 ### Data analysis using awk 
 
-১১)  [__লেকচার - ১১ - Basic R plotting - I__- `scatter plot`, `histogram`, `line plot`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-11.md)
+১১)  [__লেকচার - ১১ - Basic R plotting - I__- `scatter plot`, `histogram`, `line plot`](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
 
-১২)  [__লেকচার - ১২ - Heatmap__- `pheatmap()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-12.md)
-
-১৩)  [__লেকচার - ১৩ - ggplot - I__- `basic structure`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-13.md)
-
-১৪)  [__লেকচার - ১৪ - ggplot - II__- `geom_point()`, `geom_line()`, `layered graphics`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-14.md)
-
-১৫)  [__লেকচার - ১৫ - ggplot -III__- `tidyverse`, `geom_bar()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-15.md)
-
-১৬)  [__লেকচার - ১৬ - ggplot -IV__- `geom_boxplot()`, `geom_violin()`, `geom_jitter()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-16.md)
-
-১৭)  [__লেকচার - ১৭ - ggplot -V__-  `faceting`, `coordinate_flip()` and `theme()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-17.md)
-
-১৮)  [__লেকচার - ১৮ - ggplot -VI__-  `cheatsheet`, `colors`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-18.md)
-
- - [__100+ example plots (with codes) using ggplot__](https://github.com/Rashedul/R-Tutorials/blob/master/scripts/example_ggplot.md)
-
-১৯)  [__লেকচার - ১৯ - RMarkdown__](https://github.com/Rashedul/R-Tutorials/blob/master/files/RMarkdown_lecture.md)
 
 
 ### MORE IN bash
@@ -93,19 +68,11 @@
 
 #bash_profile, PS1=myname
 
-২০)  [__লেকচার - ২০ - Conditional statement__- `if/else`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-20.md)
+#which
 
-২১)  [__লেকচার - ২১ - Looping__- `for loop`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-21.md)
+#sudo vs su
 
-২২)  [__লেকচার - ২২ - `Function`__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-22.md)
-
-২৩)  [__লেকচার - ২৩ - Clustering__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-23.md)
-
-২৪)  [__লেকচার - ২৪ - PCA__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
-
-২৫)  [__লেকচার - ২৫ - String processing__- I -  `apply functions`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
-
-২৬)  [__লেকচার - ২৬ - String processing__- II - `stringr()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
+#cut
 
 
 ### USEFUL RESOURCES
