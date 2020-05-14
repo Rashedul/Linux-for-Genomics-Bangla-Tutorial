@@ -29,7 +29,7 @@
 
 ২)  [__লেকচার - ০2 - Read, write file and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
-৩)  [__লেকচার - ০৩ - Create, Copy, remove directories and files__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-03.md) `mkdir, cp, mv, rmdir, rm`
+৩)  [__লেকচার - ০৩ - Create, copy, remove directories and files__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-03.md) `mkdir, cp, mv, rmdir, rm`
 
 #which
 
