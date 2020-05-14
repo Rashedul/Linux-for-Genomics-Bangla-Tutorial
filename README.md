@@ -14,7 +14,7 @@
 - কোন প্রশ্ন/মতামত থাকলে [__YouTube__](https://www.youtube.com/channel/UCm-8CdrvGi2SjLEOUSCztIg?view_as=subscriber) ভিডিওর নিচে কমেন্ট করতে পারেন। কিভাবে প্রশ্ন/মতামত জানাবেন, তার [_নমুনা এখানে দেখে নিন_](https://github.com/Rashedul/R-Tutorials/blob/master/files/AskQuestion.md)। 
 
 
-## লেকচার  সূচি ([__YouTube__](https://www.youtube.com/watch?v=lafxMD71tDo&list=PLwFiXZvdEO5IV9crcJBsJWHETYQpU68QM) live coding embeded)
+## লেকচার  সূচি ([__YouTube__](https://www.youtube.com/watch?v=nueX5Q3vqUE&list=PLwFiXZvdEO5L_e9SxzDdKJSUCEc7HjCeZ) live coding embeded)
  
 
 ### Introduction()
