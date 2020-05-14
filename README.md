@@ -19,26 +19,30 @@
 
 ### Introduction()
 
-#### coming next...
-
 ### Working with files and directoies
 
 ১)  [__লেকচার - ০১ - Access directory and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `pwd, cd, ll, clear,  ~, space error, ./, ../`
 
-২)  [__লেকচার - ০2 - Create, download files and count lines__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `head, tail, wc, wget, touch`
+২)  [__লেকচার - ০2 - Read file and count lines__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `head, tail, wc, *`
 
-২)  [__লেকচার - ০2 - Read, write file and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
+৩)  [__লেকচার - ০2 - Read file and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |`
 
-৩)  [__লেকচার - ০৩ - Create, copy, remove directories and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `mkdir, cp, mv, rmdir, rm`
+৪)  [__লেকচার - ০৪ - write file, grep__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, grep, >, touch`
 
-৩)  [__লেকচার - ০৩ - Edit files on terminal__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `vi, vim`
+৫)  [__লেকচার - ০৫ - Edit file on terminal__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `vi, vim`
 
-৩)  [__লেকচার - ০৩ - Compress and uncompress files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `gzip, gunzip`
+৬)  [__লেকচার - ০৬ - Create, copy, remove directories and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `mkdir, cp, mv, rmdir, rm, wget`
 
-২)  [__লেকচার - ০2 - Symlink file__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
+৭)  [__লেকচার - ০৭ - Compress and uncompress files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `gzip, gunzip`
 
-৩)  [__লেকচার - ০৩ - file permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
+৮)  [__লেকচার - ০৮ - Symlink file__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `ln`
 
+৯)  [__লেকচার - ০৯ - file permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
+
+
+### work in progress ....
+
+ctl+C
 ### looping
 
 ২)  [__লেকচার - ০2 - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
