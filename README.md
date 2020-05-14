@@ -16,13 +16,19 @@
 
 ## লেকচার  সূচি ([__YouTube__](https://www.youtube.com/watch?v=lafxMD71tDo&list=PLwFiXZvdEO5IV9crcJBsJWHETYQpU68QM) live coding embeded)
  
-### Bash commands on terminal
 
-১)  [__লেকচার - ০১ - Access directory and files__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-01.sh) `pwd, cd, ll, mkdir, clear,  ~, space error, ./, ../, `\  ` instead of a space`
+### Introduction()
 
-২)  [__লেকচার - ০2 - create, Read, write, download files and pipe__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-02.md) `less, head, tail, wc, wget , touch, >`
+#### coming next...
 
-#cp and mv, rmdir, rm file, which,
+### Working with files and directoies
+
+১)  [__লেকচার - ০১ - Access directory and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `pwd, cd, ll, clear,  ~, space error, ./, ../`
+
+২)  [__লেকচার - ০2 - Create, Read, write, download files and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, head, tail, wc, wget , touch, >`
+
+৩)  [__লেকচার - ০৩ - Create, Copy, remove directories and files__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-03.md) `mkdir, cp, mv, rmdir, rm`
+which
 
 #zip, unzip, sudo vs su
 
@@ -30,15 +36,14 @@
 
 #cut
 
-#define variable
-
-#bash_profile, PS1=myname
-
 #symlink
 
 #FILENAME, basemane
 
 ৩)  [__লেকচার - ০৩ - file permission__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-03.md) #
+
+
+### Data analysis basic commands
 
 ৪)  [__লেকচার - ০৪ - grep, sort and duplicates__](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-04.md) `sort, uniq, count, man`
 
@@ -55,7 +60,7 @@
 ১০)  [__লেকচার - ১০ - Writing & Reading data__- `write.table()`, `read.table()`, `read.xls()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-10.md)
 
 
-### VISUALIZATION
+### Data analysis using awk 
 
 ১১)  [__লেকচার - ১১ - Basic R plotting - I__- `scatter plot`, `histogram`, `line plot`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-11.md)
 
@@ -78,7 +83,12 @@
 ১৯)  [__লেকচার - ১৯ - RMarkdown__](https://github.com/Rashedul/R-Tutorials/blob/master/files/RMarkdown_lecture.md)
 
 
-### MORE IN R 
+### MORE IN bash
+
+
+#define variable
+
+#bash_profile, PS1=myname
 
 ২০)  [__লেকচার - ২০ - Conditional statement__- `if/else`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-20.md)
 
@@ -93,22 +103,6 @@
 ২৫)  [__লেকচার - ২৫ - String processing__- I -  `apply functions`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
 
 ২৬)  [__লেকচার - ২৬ - String processing__- II - `stringr()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
-
-
-#### coming next...
-
-
-### STATISTICAL ANALYSIS
-
-২২)  [__লেকচার - ১৫ - Numerical Descriptions__- `sum()`, `mean()`, `meadian()`, `mode()`, `log()`, `sqrt()` and `summary()`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
-
-২৩)  [__লেকচার - ১৫ - Statistical distributions__ - `kurtosis()` and `skewness`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
-
-২৪)  [__লেকচার - ১৫ - Regression and Correlation__ - `pearson` and `spearman`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
-
-২৫)  [__লেকচার - ১৬ - statistical tests___ - `t.test()` and `ANOVA`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
-
-২৬)  [__লেকচার - ১৬ - statistical tests___ - `p-value` and `adjusted p-value`](https://github.com/Rashedul/R-Tutorials/blob/master/files/Lec-.md)
 
 
 ### USEFUL RESOURCES
