@@ -39,6 +39,8 @@
 
 ৯)  [__লেকচার - ০৯ - file permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
 
+১০)  [__লেকচার - ১০ - variables__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
+
 
 ### work in progress ....
 
