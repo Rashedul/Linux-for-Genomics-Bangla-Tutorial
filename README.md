@@ -17,7 +17,7 @@
 ## লেকচার  সূচি ([__YouTube__](https://www.youtube.com/watch?v=nueX5Q3vqUE&list=PLwFiXZvdEO5L_e9SxzDdKJSUCEc7HjCeZ) live coding embeded)
  
 
-০)  [__লেকচার - ০০ - Introduction video__](https://youtu.be/nueX5Q3vqUE)
+০)  [__লেকচার - ০০ - Introduction__](https://youtu.be/nueX5Q3vqUE)
 
 ### Working with files and directoies
 
@@ -46,11 +46,11 @@
 
 ### looping
 
-১২)  [__লেকচার - ১২ - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
+১২)  [__লেকচার - ১২ - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-12.sh) `less, |, >`
 
-১৩)  [__লেকচার - ১৩ - while loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
+১৩)  [__লেকচার - ১৩ - while loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-13.sh) `less, |, >`
 
-১৪)  [__লেকচার - ১৪ - Ignore full path in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `basemane`
+১৪)  [__লেকচার - ১৪ - Ignore full path in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-14.sh) `basemane`
 
 
 ### Data analysis commands
