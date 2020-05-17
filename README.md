@@ -17,7 +17,7 @@
 ## লেকচার  সূচি ([__YouTube__](https://www.youtube.com/watch?v=nueX5Q3vqUE&list=PLwFiXZvdEO5L_e9SxzDdKJSUCEc7HjCeZ) live coding embeded)
  
 
-### Introduction()
+__Introduction__
 
 ### Working with files and directoies
 
