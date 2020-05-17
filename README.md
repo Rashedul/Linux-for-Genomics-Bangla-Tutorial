@@ -27,7 +27,7 @@
 
 ৩)  [__লেকচার - ০2 - Read file and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |`
 
-৪)  [__লেকচার - ০৪ - write file, grep__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, grep, >, touch`
+৪)  [__লেকচার - ০৪ - write and append file, grep__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, grep,> , >>, touch`
 
 ৫)  [__লেকচার - ০৫ - Edit file on terminal__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `vi, vim`
 
@@ -39,7 +39,9 @@
 
 ৯)  [__লেকচার - ০৯ - file permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
 
-১০)  [__লেকচার - ১০ - variables__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
+১০)  [__লেকচার - ১০ - echo and variables__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) echo "hellow", echo *bed, echo $((2+2))
+
+১১)  [__লেকচার - ১১ - help, user manual, history__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) --help and user manual of grep, history | head
 
 
 ### work in progress ....
@@ -56,21 +58,23 @@ ctl+C
 
 ### Data analysis basic commands
 
-৪)  [__লেকচার - ০৪ - grep, sort and duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
+৪)  [__লেকচার - ০৪ - sort, uniq and duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
 
 ৫)  [__লেকচার - ০৫ - merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste, join`
 
-
+# cut command
+# sed command
+ 
 ### Data analysis using awk 
 
 ১১)  [__লেকচার - ১১ - Basic R plotting - I__- `scatter plot`, `histogram`, `line plot`](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
 
 
-
 ### MORE IN bash
 
+talk about home dir and bash_profile
 
-#define variable
+top + decoration of teminal window
 
 #bash_profile, PS1=myname
 
@@ -78,7 +82,8 @@ ctl+C
 
 #sudo vs su
 
-#cut
+#Screen -S
+
 
 
 ### USEFUL RESOURCES
@@ -101,6 +106,11 @@ ctl+C
 
 - [More free online resouces](https://www.linuxlinks.com/excellent-free-books-learn-bash/)
 
+
+### Preonath Shuvo's notes
+
+- [Notes on linux commands](https://drive.google.com/file/d/1LcI8w1GZYAaZ3LmiW-v8CxoGV6_1zO3D/view?usp=sharing)
+- [Doc for command options](https://docs.google.com/document/d/1EULE-NKdmfc4IldIShfKYWtZWFB6LAAi5Zm0PoKdoDE/edit?ts=5ebeff15)
 
 ## 
 
