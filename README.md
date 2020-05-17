@@ -50,7 +50,7 @@
 
 ১৩)  [__লেকচার - ১৩ - while loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
-১৪)  [__লেকচার - ১৪ - Change file name in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `FILENAME, basemane`
+১৪)  [__লেকচার - ১৪ - Ignore full path in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `basemane`
 
 
 ### Data analysis commands
@@ -68,6 +68,7 @@
 
 ১৯)  [__লেকচার - ১৯ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
 
+FILENAME,
 
 ### MORE IN bash
 
