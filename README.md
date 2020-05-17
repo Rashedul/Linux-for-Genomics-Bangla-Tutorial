@@ -39,9 +39,9 @@
 
 ৯)  [__লেকচার - ০৯ - file permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
 
-১০)  [__লেকচার - ১০ - echo and variables__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) echo "hellow", echo *bed, echo $((2+2))
+১০)  [__লেকচার - ১০ - echo and variables__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `echo, define variables`
 
-১১)  [__লেকচার - ১১ - help, user manual, history__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) --help and user manual of grep, history | head
+১১)  [__লেকচার - ১১ - help, user manual, history__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `help, -h, --help, man, history`
 
 
 ### looping
