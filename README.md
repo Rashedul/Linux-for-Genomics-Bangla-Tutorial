@@ -44,9 +44,6 @@ __Introduction__
 ১১)  [__লেকচার - ১১ - help, user manual, history__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) --help and user manual of grep, history | head
 
 
-### work in progress ....
-
-ctl+C
 ### looping
 
 ১২)  [__লেকচার - ১২ - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
@@ -69,7 +66,7 @@ ctl+C
  
 ### Data analysis using awk 
 
-১১)  [__লেকচার - ১১ - Basic R plotting - I__- `scatter plot`, `histogram`, `line plot`](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
+১৯)  [__লেকচার - ১৯ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
 
 
 ### MORE IN bash
