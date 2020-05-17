@@ -49,23 +49,21 @@ __Introduction__
 ctl+C
 ### looping
 
-১২)  [__লেকচার - ১২ - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
+২)  [__লেকচার - ০2 - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
-১৩)  [__লেকচার - ১৩ - while loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
+২)  [__লেকচার - ০2 - while loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |, >`
 
-১৪)  [__লেকচার - ১৪ - Change file name in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `FILENAME, basemane`
+২)  [__লেকচার - ০2 - Change file name in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `FILENAME, basemane`
 
 
-### Data analysis commands
+### Data analysis basic commands
 
-১৫)  [__লেকচার - ১৫ - sort, uniq and duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
+৪)  [__লেকচার - ০৪ - sort, uniq and duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
 
-১৬)  [__লেকচার - ১৬ - merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste, join`
+৫)  [__লেকচার - ০৫ - merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste, join`
 
-১৭)  [__লেকচার - ১৭ - cut__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cut`
-
-১৮)  [__লেকচার - ১৮ - sed__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed`
-
+# cut command
+# sed command
  
 ### Data analysis using awk 
 
