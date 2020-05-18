@@ -55,9 +55,11 @@
 
 ### Data analysis commands
 
-১৫)  [__লেকচার - ১৫ - sort, uniq and duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
+১৫)  [__লেকচার - ১৫ - sort__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
 
-১৬)  [__লেকচার - ১৬ - merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste, join`
+১৫)  [__লেকচার - ১৫ - uniq and find duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `uniq`
+
+১৬)  [__লেকচার - ১৬ - concate or merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste, join`
 
 ১৭)  [__লেকচার - ১৭ - cut__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cut`
 
@@ -76,14 +78,11 @@ talk about home dir and bash_profile
 
 top + decoration of teminal window
 
-#bash_profile, PS1=myname
+bash_profile, PS1=myname
 
-#which
+which
 
-#sudo vs su
-
-#Screen -S
-
+Screen -S
 
 
 ### USEFUL RESOURCES

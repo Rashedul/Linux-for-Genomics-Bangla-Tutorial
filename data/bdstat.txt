@@ -1,0 +1,5 @@
+Dhaka	3
+Sylhet	11
+Khulna 1
+Rajshahi 0
+Ctg	9
