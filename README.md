@@ -70,21 +70,36 @@
 
 ### Data analysis using awk 
 
-১৯)  [__লেকচার - ১৯ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)
+২১)  [__লেকচার - ১৯ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `awk`
 
-FILENAME,
+২২)  [__লেকচার - ১৯ - awk filtering__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `NR, NF, >col, <col`
 
-### MORE IN bash
+২৩)  [__লেকচার - ১৯ - awk arithmatics__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `+, -, *, /`
 
-talk about home dir and bash_profile
+২৪)  [__লেকচার - ১৯ - awk conditions__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `&& , ||`
 
-top + decoration of teminal window
 
-bash_profile, PS1=myname
+### MORE in awk (learn by yourself)
 
-which
+- gsub() in awk
 
-Screen -S
+- sum of col
+
+- use of FILENAME in awk
+
+- use of if statement in awk
+
+### MORE IN bash (learn by yourself)
+
+- Learn about home dir and bash_profile
+
+- top command
+
+- which command
+
+- screen command
+
+- cut command
 
 
 ### USEFUL RESOURCES
@@ -116,6 +131,7 @@ Screen -S
 ### Acknowledgemet to the video editing group
 
 - Preonath Shuvo
+- AR Riaz
 - Rashedul Islam
 
 ## 
