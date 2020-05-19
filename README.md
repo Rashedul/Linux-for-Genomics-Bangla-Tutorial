@@ -57,11 +57,11 @@
 
 ১৫)  [__লেকচার - ১৫ - sort__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
 
-১৬)  [__লেকচার - ১৬ - uniq and find duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `uniq`
+১৬)  [__লেকচার - ১৬ - Unique lines and find duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `uniq`
 
-১৭)  [__লেকচার - ১৭ - concate or merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste`
+১৭)  [__লেকচার - ১৭ - Concate or merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste`
 
-১৮)  [__লেকচার - ১৮ - join two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `join, <()`
+১৮)  [__লেকচার - ১৮ - Join two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `join, <()`
 
 ১৯)  [__লেকচার - ১৯ - sed-1__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed, ^, $`
 
@@ -89,7 +89,7 @@
 
 - use of if statement in awk
 
-### MORE IN bash (learn by yourself)
+### MORE In bash (learn by yourself)
 
 - Learn about home dir and bash_profile
 
