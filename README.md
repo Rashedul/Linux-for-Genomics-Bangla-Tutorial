@@ -113,6 +113,11 @@ Screen -S
 - [Notes on linux commands](https://drive.google.com/file/d/1LcI8w1GZYAaZ3LmiW-v8CxoGV6_1zO3D/view?usp=sharing)
 - [Doc for command options](https://docs.google.com/document/d/1EULE-NKdmfc4IldIShfKYWtZWFB6LAAi5Zm0PoKdoDE/edit?ts=5ebeff15)
 
+### Acknowledgemet to the video editing group
+
+- Preonath Shuvo
+- Rashedul Islam
+
 ## 
 
 ##
