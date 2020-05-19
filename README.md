@@ -61,9 +61,9 @@
 
 ১৭)  [__লেকচার - ১৭ - concate or merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste`
 
-১৮)  [__লেকচার - ১৮ - join two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `join`
+১৮)  [__লেকচার - ১৮ - join two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `join, <()`
 
-১৯)  [__লেকচার - ১৯ - sed-1__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed`
+১৯)  [__লেকচার - ১৯ - sed-1__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed, ^, $`
 
 ২০)  [__লেকচার - ২০ - sed-2__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed, [a-z], [A-Z], [0-9]`
 
