@@ -57,15 +57,17 @@
 
 ১৫)  [__লেকচার - ১৫ - sort__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
 
-১৫)  [__লেকচার - ১৫ - uniq and find duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `uniq`
+১৬)  [__লেকচার - ১৬ - uniq and find duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `uniq`
 
-১৬)  [__লেকচার - ১৬ - concate or merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste, join`
+১৭)  [__লেকচার - ১৭ - concate or merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste`
 
-১৭)  [__লেকচার - ১৭ - cut__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cut`
+১৮)  [__লেকচার - ১৮ - join two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `join`
 
-১৮)  [__লেকচার - ১৮ - sed__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed`
+১৯)  [__লেকচার - ১৯ - sed-1__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed`
 
- 
+২০)  [__লেকচার - ২০ - sed-2__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed, [a-z], [A-Z], [0-9]`
+
+
 ### Data analysis using awk 
 
 ১৯)  [__লেকচার - ১৯ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh)

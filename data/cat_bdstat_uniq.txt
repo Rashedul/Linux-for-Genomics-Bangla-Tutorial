@@ -1,0 +1,15 @@
+D
+Z
+A
+A
+B
+Z
+C
+C	K	L
+C	K	L
+a
+Dhaka	3
+Sylhet	11
+Khulna 1
+Rajshahi 0
+Ctg	9
