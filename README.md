@@ -37,11 +37,11 @@
 
 ৮)  [__লেকচার - ০৮ - Symlink file__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `ln`
 
-৯)  [__লেকচার - ০৯ - file permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
+৯)  [__লেকচার - ০৯ - File permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
 
 ১০)  [__লেকচার - ১০ - echo and variables__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `echo, define variables`
 
-১১)  [__লেকচার - ১১ - help, user manual, history__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `help, -h, --help, man, history`
+১১)  [__লেকচার - ১১ - Help, user manual, history__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `help, -h, --help, man, history`
 
 
 ### looping
@@ -55,7 +55,7 @@
 
 ### Data analysis commands
 
-১৫)  [__লেকচার - ১৫ - sort__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort, uniq, count, man`
+১৫)  [__লেকচার - ১৫ - Sort__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort`
 
 ১৬)  [__লেকচার - ১৬ - Unique lines and find duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `uniq`
 
@@ -81,25 +81,25 @@
 
 ### MORE in awk (learn by yourself)
 
-- gsub() in awk
+- `gsub()` in awk
 
 - sum of col
 
-- use of FILENAME in awk
+- use of `FILENAME` in awk
 
-- use of if statement in awk
+- use of `if` statement in awk
 
 ### MORE In bash (learn by yourself)
 
-- Learn about home dir and bash_profile
+- Learn about home directory and `bash_profile`    
 
-- top command
+- `top` command
 
-- which command
+- `which` command
 
-- screen command
+- `screen` command
 
-- cut command
+- `cut` command
 
 
 ### USEFUL RESOURCES
