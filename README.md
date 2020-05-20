@@ -67,18 +67,21 @@
 
 ২০)  [__লেকচার - ২০ - sed-2__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed, [a-z], [A-Z], [0-9]`
 
-২১)  [__লেকচার - ২১ - Writing a bash/shell script__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `.sh, sh`
-
 
 ### Data analysis using awk 
 
-২২)  [__লেকচার - ২২ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `awk`
+২১)  [__লেকচার - ২১ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `awk`
 
-২৩)  [__লেকচার - ২৩ - awk filtering__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `NR, NF, >col, <col`
+২২)  [__লেকচার - ২২ - awk filtering__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `NR, NF, >col, <col`
 
-২৪)  [__লেকচার - ২৪ - awk arithmatics__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `+, -, *, /`
+২৩)  [__লেকচার - ২৩ - awk arithmatics__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `+, -, *, /`
 
-২৫)  [__লেকচার - ২৫ - awk conditions__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `&& , ||`
+২৪)  [__লেকচার - ২৪ - awk conditions__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `&& , ||`
+
+### Writing script 
+
+২৫)  [__লেকচার - ২৫ - Writing a bash/shell script__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `.sh, sh`
+
 
 
 ### MORE in awk (learn by yourself)
