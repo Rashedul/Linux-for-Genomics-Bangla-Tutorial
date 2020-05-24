@@ -46,9 +46,9 @@
 
 ### looping
 
-১২)  [__লেকচার - ১২ - for loop__](https://youtu.be/uzQoYWXgf6k) [code link](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-12.sh) `less, |, >`
+১২)  [__লেকচার - ১২ - for loop__](https://youtu.be/uzQoYWXgf6k) [_code link_](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-12.sh)
 
-১৩)  [__লেকচার - ১৩ - while loop__](https://youtu.be/2M_s3SW_4K8) [code link](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-13.sh) `less, |, >`
+১৩)  [__লেকচার - ১৩ - while loop__](https://youtu.be/2M_s3SW_4K8) [_code link_](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-13.sh)
 
 ১৪)  [__লেকচার - ১৪ - Ignore full path in a loop__](https://youtu.be/_SFMlK_LIqM) `basemane`
 
@@ -78,10 +78,10 @@
 
 ২৪)  [__লেকচার - ২৪ - awk conditions__](https://youtu.be/XuwrecKYUno) `&& , ||`
 
+
 ### Writing script 
 
 ২৫)  [__লেকচার - ২৫ - Writing a bash/shell script__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-25.sh) `.sh, sh`
-
 
 
 ### MORE in awk (learn by yourself)
@@ -93,6 +93,7 @@
 - use of `FILENAME` in awk
 
 - use of `if` statement in awk
+
 
 ### MORE In bash (learn by yourself)
 
