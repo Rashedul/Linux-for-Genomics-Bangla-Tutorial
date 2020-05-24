@@ -21,27 +21,27 @@
 
 ### Working with files and directoies
 
-১)  [__লেকচার - ০১ - Access directory and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `pwd, cd, ll, clear,  ~, space error, ./, ../`
+১)  [__লেকচার - ০১ - Access directory and files__](https://youtu.be/KaO2s8zwfl4) `pwd, cd, ll, clear,  ~, space error, ./, ../`
 
-২)  [__লেকচার - ০2 - Read file and count lines__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `head, tail, wc, *`
+২)  [__লেকচার - ০2 - Read file and count lines__](https://youtu.be/Me5YVAKdTD8) `head, tail, wc, *`
 
-৩)  [__লেকচার - ০2 - Read file and pipe__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, |`
+৩)  [__লেকচার - ০৩ - Read file and pipe__](https://youtu.be/ldGYl_F45MA) `less, |`
 
-৪)  [__লেকচার - ০৪ - write and append file, grep__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `less, grep,> , >>, touch`
+৪)  [__লেকচার - ০৪ - write and append file, grep__](https://youtu.be/258nXK95B_0) `less, grep,> , >>, touch`
 
-৫)  [__লেকচার - ০৫ - Edit file on terminal__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `vi, vim`
+৫)  [__লেকচার - ০৫ - Edit file on terminal__](https://youtu.be/as3MyptOk-s) `vi, vim`
 
-৬)  [__লেকচার - ০৬ - Create, copy, remove directories and files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `mkdir, cp, mv, rmdir, rm, wget`
+৬)  [__লেকচার - ০৬ - Create, copy, remove directories and files__](https://youtu.be/8XRB4ox0uVc) `mkdir, cp, mv, rmdir, rm, wget`
 
-৭)  [__লেকচার - ০৭ - Compress and uncompress files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `gzip, gunzip`
+৭)  [__লেকচার - ০৭ - Compress and uncompress files__](https://youtu.be/tlqG3YpK7q4) `gzip, gunzip`
 
-৮)  [__লেকচার - ০৮ - Symlink file__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `ln`
+৮)  [__লেকচার - ০৮ - Symlink file__](https://youtu.be/OJMIGE9tcL8) `ln`
 
-৯)  [__লেকচার - ০৯ - File permission__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `chmod`
+৯)  [__লেকচার - ০৯ - File permission__](https://youtu.be/diQ3gGbQlO8) `chmod`
 
-১০)  [__লেকচার - ১০ - echo and variables__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `echo, define variables`
+১০)  [__লেকচার - ১০ - echo and variables__](https://youtu.be/4VkDcsUSHWY) `echo, define variables`
 
-১১)  [__লেকচার - ১১ - Help, user manual, history__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `help, -h, --help, man, history`
+১১)  [__লেকচার - ১১ - Help, user manual, history__](https://youtu.be/lzyzm3poaYA) `help, -h, --help, man, history`
 
 
 ### looping
