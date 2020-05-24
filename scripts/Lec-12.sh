@@ -1,3 +1,5 @@
+# link for video tutorial: https://www.youtube.com/watch?v=uzQoYWXgf6k
+
 #for loop
 cd ~/Documents/Linux/data/bed/
 
