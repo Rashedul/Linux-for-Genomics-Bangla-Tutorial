@@ -46,41 +46,41 @@
 
 ### looping
 
-১২)  [__লেকচার - ১২ - for loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-12.sh) `less, |, >`
+১২)  [__লেকচার - ১২ - for loop__](https://youtu.be/uzQoYWXgf6k) `less, |, >`
 
-১৩)  [__লেকচার - ১৩ - while loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-13.sh) `less, |, >`
+১৩)  [__লেকচার - ১৩ - while loop__](https://youtu.be/2M_s3SW_4K8) `less, |, >`
 
-১৪)  [__লেকচার - ১৪ - Ignore full path in a loop__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-14.sh) `basemane`
+১৪)  [__লেকচার - ১৪ - Ignore full path in a loop__](https://youtu.be/_SFMlK_LIqM) `basemane`
 
 
 ### Data analysis commands
 
-১৫)  [__লেকচার - ১৫ - Sort__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sort`
+১৫)  [__লেকচার - ১৫ - Sort__](https://youtu.be/pQAUIEjjUpo) `sort`
 
-১৬)  [__লেকচার - ১৬ - Unique lines and find duplicates__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `uniq`
+১৬)  [__লেকচার - ১৬ - Unique lines and find duplicates__](https://youtu.be/VU675Zqf-mo) `uniq`
 
-১৭)  [__লেকচার - ১৭ - Concate or merge two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `cat, paste`
+১৭)  [__লেকচার - ১৭ - Concate or merge two files__](https://youtu.be/CyoIXwTiSXg) `cat, paste`
 
-১৮)  [__লেকচার - ১৮ - Join two files__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `join, <()`
+১৮)  [__লেকচার - ১৮ - Join two files__](https://youtu.be/znKe7FzYB-4) `join, <()`
 
-১৯)  [__লেকচার - ১৯ - sed-1__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed, ^, $`
+১৯)  [__লেকচার - ১৯ - sed-1__](https://youtu.be/bMXa_lk75xY) `sed, ^, $`
 
-২০)  [__লেকচার - ২০ - sed-2__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `sed, [a-z], [A-Z], [0-9]`
+২০)  [__লেকচার - ২০ - sed-2__](https://youtu.be/ATvuFLQuhvc) `sed, [a-z], [A-Z], [0-9]`
 
 
 ### Data analysis using awk 
 
-২১)  [__লেকচার - ২১ - Basic awk commands__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `awk`
+২১)  [__লেকচার - ২১ - Basic awk commands__](https://youtu.be/pyz4FL7e65E) `awk`
 
-২২)  [__লেকচার - ২২ - awk filtering__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `NR, NF, >col, <col`
+২২)  [__লেকচার - ২২ - awk filtering__](https://youtu.be/9GARrLbFQsA) `NR, NF, >col, <col`
 
-২৩)  [__লেকচার - ২৩ - awk arithmatics__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `+, -, *, /`
+২৩)  [__লেকচার - ২৩ - awk arithmatics__](https://youtu.be/-GFyp0Ktkms) `+, -, *, /`
 
 ২৪)  [__লেকচার - ২৪ - awk conditions__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `&& , ||`
 
 ### Writing script 
 
-২৫)  [__লেকচার - ২৫ - Writing a bash/shell script__](https://github.com/Rashedul/Linux-for-Genomics-Bangla-Tutorial/blob/master/scripts/Lec-01.sh) `.sh, sh`
+২৫)  [__লেকচার - ২৫ - Writing a bash/shell script__](https://youtu.be/XuwrecKYUno) `.sh, sh`
 
 
 
